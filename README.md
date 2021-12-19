@@ -1,2 +1,2 @@
 # GitReposList
-This project is for assignment purpose only gor GoJek
+This project is for GoJek assignment purpose only.
