@@ -6,4 +6,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "GitReposList"
-include ':app'
+include(":app")
